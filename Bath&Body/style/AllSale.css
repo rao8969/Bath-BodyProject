@@ -1,0 +1,96 @@
+#navbar{
+            text-align: center;
+            display: flex;
+            margin-left: 40%;
+            gap: 10px;
+     }
+     #search{
+                 width: 35%;
+                 height: 30px;
+                 margin-top: 15px;
+                 cursor: pointer;
+     }
+     #color{
+                 color: blue;
+                 font-size: 34px;
+                 width: 340px;
+                 
+     }
+     #nav{
+                 display: flex;
+                 justify-content: space-around;
+                 margin-top: 20px;
+                 color: rgb(112, 111, 111);
+                 cursor: pointer;
+                 justify-content: space-around;
+     
+     }
+     #red{
+                 color: red;
+     }
+     #line2{
+                 width: 100%;
+                 border: 1px solid rgb(226, 226, 226);
+                 margin-top: 15px;
+     }
+     #small>p{
+                 font-size: 13px;
+     }
+     #small>h3{
+                 margin-left: 15%;
+                 margin-top: 20px;
+                 font-size: 28px;
+     }
+     #line{
+                 width: 80%;
+                 border: 1px solid black;
+                 margin: auto;
+     }
+     #product{
+                 display: grid;
+                 grid-template-columns: repeat(4,1fr);
+                 grid-template-rows: repeat(20,470px);
+                 gap: 40px;
+                 width: 80%;
+                 margin: auto;
+                 margin-top: 30px;
+                 
+                 
+                 
+     }
+     #product>div{
+                 
+     }
+     #set{
+                 height: 60%;
+                 width: 30%;
+                 margin-left: 35%;
+                 margin-top: 40px;
+                 
+                 
+     }
+     #color1{
+                 color: blue;
+                 text-align: center;
+     }
+     #siz{
+                 text-align: center;
+                 color: red;
+     }
+     #size{
+                 text-align: center;
+     }
+     #fixed{
+                 height: 30px;
+                 width: 90%;
+                 background-color: black;
+                 color: white;
+                 border: none;
+                                 
+     }
+     #fixed:hover{
+                 background-color: white;
+                 color: black;
+                 border: black;
+     }
+    

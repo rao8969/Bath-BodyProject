@@ -1,0 +1,157 @@
+#navbar{
+            text-align: center;
+            display: flex;
+            margin-left: 40%;
+            gap: 10px;
+     }
+     #search{
+                 width: 35%;
+                 height: 30px;
+                 margin-top: 15px;
+                 cursor: pointer;
+     }
+     #color{
+                 color: blue;
+                 font-size: 34px;
+                 width: 340px;
+                 
+     }
+     #nav{
+                 display: flex;
+                 justify-content: space-around;
+                 margin-top: 20px;
+                 color: rgb(112, 111, 111);
+                 cursor: pointer;
+     
+     }
+     #red{
+                 color: red;
+     }
+     #line2{
+                 width: 100%;
+                 border: 1px solid rgb(226, 226, 226);
+                 margin-top: 15px;
+     }
+     #img{
+             width: 65%; 
+             margin-left: 20%; 
+             margin-top: 20px;
+     }
+     #font{
+                 font-size: 35px;
+                 margin-top: 40px;
+                 margin-left: 280px;
+     }
+     #line3{
+                 width: 60%;
+                 border: 1px solid rgb(56, 55, 55);
+                 margin: auto;
+     }
+     #sign{
+                 margin-top: 40px;
+                 margin-left: 35%;
+     }
+     #name{
+                 width: 50%;
+                 height: 40px;
+                 margin-bottom: 30px;
+                 cursor: pointer;
+     }
+     #btn{
+                 width: 20%;
+                 height: 35px;
+                 background-color: black;
+                 color: white;
+                 border: none;
+                 margin-left: 15%;
+                 cursor: pointer;
+     }
+     #cen{
+                 text-align: center;
+                 margin-top: 20px;
+                 color: rgb(94, 92, 92);
+     }
+
+#line{
+            height: 0px;
+            width: 100%;
+            border: 1px solid rgb(231, 231, 231);
+            margin-top: 150px;
+}
+#footer{
+            display: grid;
+            grid-template-columns: repeat(5,1fr);
+            grid-template-rows: 300px;
+            gap: 20px;
+            width: 80%;
+            margin: auto;
+            margin-top: 30px;
+}
+#footer>div{
+            
+}
+#sear{
+            height: 30px;
+            width: 200px;
+            cursor: pointer;
+}
+#submit{
+            height: 40px;
+            margin-top: 10px;
+            background-color: black;
+            color: white;
+            border: none;
+            width: 50%;
+            cursor: pointer;
+}
+#footer>div>h3{
+            font-size: 14px;
+}
+#footer>div>p{
+            color: rgb(70, 67, 67);
+}
+#get{
+            font-size: 14px;
+            margin-left: 140px;
+}
+#flex{
+            display: flex;
+            gap: 266px;
+}
+#gap{
+            height: 108px;
+            width: 400px;
+}
+#seven{
+            height: 100px;
+            width: 100%;
+            background-color: rgb(240, 236, 236);
+            margin-top: 30px;
+}
+#bob{
+            display: grid;
+            grid-template-columns: repeat(7,1fr);
+            grid-template-rows: 30px;
+            gap: 20px;
+            padding-top: 40px;
+            width: 80%;
+            margin: auto;
+            font-size: 14px;
+            color: rgb(102, 101, 101);
+            cursor: pointer;
+            
+
+}
+#bob>div{
+            
+            
+}
+#cente{
+            text-align: center;
+            color: rgb(90, 90, 90);
+}
+a{
+            color: white;
+            text-decoration: none;
+}
+     
